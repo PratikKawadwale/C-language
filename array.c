@@ -1,0 +1,1 @@
+//create a random array of n integers. accept a value x from user and use linear search algorithm to check whether the number is present in the array or not and output the position if the number is present
